@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pop up Window</string>
+    <string name="back">back</string>
+    <string name="button">Open Pop Up window</string>
+    <string name="todo">TODO</string>
+    <string name="exit">Exit</string>
+</resources>
